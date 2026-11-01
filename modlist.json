@@ -2,49 +2,49 @@
     "maps": [
         {
             "id": "ttt_clue_se",
-            "version": "1.2",
+            "version": "1.3",
             "files": [
                 {
                     "name": "info.json",
-                    "sha256": "e264fc77ba51c79e16688c2c880f64e1008652217cab36897adda0ed56f741e8",
+                    "sha256": "3508c12405717f8d65af4edb5275739fb2544a14769a65ad2188fcb34d800ef6",
                     "size": 388
                 },
                 {
                     "name": "map_win.bundle",
-                    "sha256": "08cf504792f4762ac7247b25d55b62fa0dfa5a9d4caeeef72f883eed7061fb76",
-                    "size": 21404219
+                    "sha256": "0258bf0659a64c4c8fc9b336005e0ec95ce11d67b54bfde885466390462fd49d",
+                    "size": 28781162
                 }
             ]
         },
         {
             "id": "ttt_minecraft_b5",
-            "version": "1.2",
+            "version": "1.3",
             "files": [
                 {
                     "name": "info.json",
-                    "sha256": "b58f60fed0b966bdc6b26c988fe4cd9d85cd3a90700b654d5151e53ff0fd0462",
+                    "sha256": "add0f8386d85bf1aad52cc75bef264a0d95052c41737c725813d91686406c6d6",
                     "size": 414
                 },
                 {
                     "name": "map_win.bundle",
-                    "sha256": "ba975a8087e4c5de7cd8b871ec3eb5dac49f5501a288911713177f6ac7b648c3",
-                    "size": 2061834
+                    "sha256": "6f03f68d60e4538f9944c2ac27d254e6990b1446dd3563d37bdcbd0f1478464e",
+                    "size": 4264893
                 }
             ]
         },
         {
             "id": "ttt_rooftops_2016",
-            "version": "1.2",
+            "version": "1.3",
             "files": [
                 {
                     "name": "info.json",
-                    "sha256": "2de8d90a1e677c73d4eb1a8dc46fb78a527435b51d520898b0c918c47543b000",
+                    "sha256": "5e6d4f6842417172bfc92f5575f35125db30978d415e642a3ecd90b56c9a2ae4",
                     "size": 405
                 },
                 {
                     "name": "map_win.bundle",
-                    "sha256": "29301cefd7dcb41668639827f1e9c8c29c730ef2e11329b7e1552fcf984751e9",
-                    "size": 70591597
+                    "sha256": "15e185bc15ddc0fdc4e7271e68ea11da6e9cb927365857c5a98db2e8ed4dfed1",
+                    "size": 97172041
                 }
             ]
         }
