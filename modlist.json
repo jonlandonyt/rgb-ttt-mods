@@ -1,0 +1,52 @@
+{
+    "maps": [
+        {
+            "id": "ttt_clue_se",
+            "version": "1.0",
+            "files": [
+                {
+                    "name": "info.json",
+                    "sha256": "c17f4fe57ea1a5e3bff6747059c3f6fd80698d01587d3deda602cb83784bcb3f",
+                    "size": 233
+                },
+                {
+                    "name": "map_win.bundle",
+                    "sha256": "bf93a0b28ae4f8c52681f69b31c537141fccf13179079b286269ebde16a0dd8b",
+                    "size": 21474809
+                }
+            ]
+        },
+        {
+            "id": "ttt_minecraft_b5",
+            "version": "1.0",
+            "files": [
+                {
+                    "name": "info.json",
+                    "sha256": "ae8feee30000ebb4077d8ec4ce2a2d11188288a07fbbc60582cbf5d6c4ad33a5",
+                    "size": 246
+                },
+                {
+                    "name": "map_win.bundle",
+                    "sha256": "f6e18bc4e24f8399e1056d4a44ab4fa0249dc90238294a03f4190a5f945eb242",
+                    "size": 2061429
+                }
+            ]
+        },
+        {
+            "id": "ttt_rooftops_2016",
+            "version": "1.0",
+            "files": [
+                {
+                    "name": "info.json",
+                    "sha256": "f25c3802564d7357f0df78d721e6d46b39c012f2311be0cd939bfea4c93dbe24",
+                    "size": 254
+                },
+                {
+                    "name": "map_win.bundle",
+                    "sha256": "583d1e4aec299432426b140d38f162f6a9c732f2662a0e9ea921afdf13735a7f",
+                    "size": 78866973
+                }
+            ]
+        }
+    ]
+}
