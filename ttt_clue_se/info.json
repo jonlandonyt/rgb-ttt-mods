@@ -1,7 +1,7 @@
 {
     "id": "ttt_clue_se",
     "name": "Clue (Special Edition)",
-    "author": "ttt_clue_se author (ported for RGB TTT)",
-    "description": "The Clue mansion. Ported from the Garry's Mod TTT map ttt_clue_se.",
-    "version": "1.0"
+    "author": "Original map by Zion Fox (Steam Workshop 281454209)",
+    "description": "The Clue mansion. Original Garry's Mod TTT map ttt_Clue_se by Zion Fox (steamcommunity.com/sharedfiles/filedetails/?id=281454209). Ported to RGB TTT; all credit for the map design goes to the original creator.",
+    "version": "1.1"
 }
